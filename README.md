@@ -25,17 +25,11 @@ You can download the sample Excel file here: https://github.com/persates/Car_Tak
 
 
 ## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/AutoScout24-Scraper.git
-  Install the required Python libraries: 
--pip install selenium openpyxl pandas webdriver-manager
-Update the target URL in the code to the desired car listing page:
-****
--driver.get("https://www.autoscout24.com.tr/lst/bmw/i7")
--driver.get("https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&ms=3500%3B336%3B%3B&ref=quickSearch&s=Car&sb=rel&vc=Car")
-Run the script:
-python autoscout24_scraper.py
+1. **Clone this repository:** `git clone https://github.com/yourusername/AutoScout24-Scraper.git`  
+2. **Install the required Python libraries:** `pip install selenium openpyxl pandas webdriver-manager`  
+3. **Update the target URLs in the code:** `driver.get("https://www.autoscout24.com.tr/lst/bmw/i7")` and `driver.get("https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&ms=3500%3B336%3B%3B&ref=quickSearch&s=Car&sb=rel&vc=Car")`  
+4. **Run the script:** `python autoscout24_scraper.py`
+
 
 ## Dependencies
 - Python 3.7+
