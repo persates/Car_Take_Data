@@ -1,9 +1,15 @@
 # AutoScout24 Scraper: Extract Car Listings with Detailed Information
 ## Overview
-This Python project scrapes car listing data from websites like AutoScout24 and organizes the data into a formatted Excel file. It extracts key details such as model, price, mileage, and location, with options to handle missing data and apply advanced formatting.
+This project is a powerful car data scraper that extracts detailed car listings from two popular websites:
+
+-AutoScout24
+-Mobile.de
+
+It automates the process of gathering essential car details, including model, price, mileage, and location, and organizes the data into a well-structured Excel file. With user-friendly formatting and clear identification of the data source, this script is designed to save time and ensure accuracy.
 
 ## Features
-- Extracts essential details:
+-Multi-Source Scraping: Collects data from both AutoScout24 and Mobile.de simultaneously.
+-Extracts Essential Details:
   - **Model**
   - **Price**
   - **Mileage** (Handles missing values: marked as "KM Yok")
