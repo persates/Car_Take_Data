@@ -48,5 +48,6 @@ Please submit a pull request with detailed changes.
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-![GIF Açıklaması](https://media.giphy.com/media/MU56lYT1Ov07fVTsnM/giphy.gif?cid=790b7611ggfjaccu29wvsm3lffl9ctnec090yewyb3xexy1g&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Demo GIF](https://media.giphy.com/media/MU56lYT1Ov07fVTsnM/giphy.gif?cid=790b7611ggfjaccu29wvsm3lffl9ctnec090yewyb3xexy1g&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
