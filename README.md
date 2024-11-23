@@ -48,10 +48,8 @@ Please submit a pull request with detailed changes.
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Demo
-![Demo GIF](https://media.giphy.com/media/MU56lYT1Ov07fVTsnM/giphy.gif?cid=790b7611ggfjaccu29wvsm3lffl9ctnec090yewyb3xexy1g&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MU56lYT1Ov07fVTsnM](https://github.com/user-attachments/assets/5de5c6a2-293e-4528-b3f5-c9c93e97422d)
 
-![Alt Text](https://media.giphy.com/media/MU56lYT1Ov07fVTsnM/giphy.gif?cid=790b7611ggfjaccu29wvsm3lffl9ctnec090yewyb3xexy1g&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 
