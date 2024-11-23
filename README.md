@@ -50,6 +50,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 
 
-![MU56lYT1Ov07fVTsnM](https://github.com/user-attachments/assets/4da1b692-a6c0-48a9-815b-8633f8d486d1)
-
 
