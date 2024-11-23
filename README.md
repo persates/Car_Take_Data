@@ -31,6 +31,7 @@ You can download the sample Excel file here: https://github.com/persates/Car_Tak
   Install the required Python libraries: 
 -pip install selenium openpyxl pandas webdriver-manager
 Update the target URL in the code to the desired car listing page:
+****
 -driver.get("https://www.autoscout24.com.tr/lst/bmw/i7")
 -driver.get("https://www.autoscout24.com.tr/lst/bmw/i7](https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&ms=3500%3B336%3B%3B&ref=quickSearch&s=Car&sb=rel&vc=Car")
 Run the script:
