@@ -1,9 +1,15 @@
 # AutoScout24 Scraper: Extract Car Listings with Detailed Information
 ## Overview
-This Python project scrapes car listing data from websites like AutoScout24 and organizes the data into a formatted Excel file. It extracts key details such as model, price, mileage, and location, with options to handle missing data and apply advanced formatting.
+This project is a powerful car data scraper that extracts detailed car listings from two popular websites:
+
+-AutoScout24
+-Mobile.de
+
+It automates the process of gathering essential car details, including model, price, mileage, and location, and organizes the data into a well-structured Excel file. With user-friendly formatting and clear identification of the data source, this script is designed to save time and ensure accuracy.
 
 ## Features
-- Extracts essential details:
+-Multi-Source Scraping: Collects data from both AutoScout24 and Mobile.de simultaneously.
+-Extracts Essential Details:
   - **Model**
   - **Price**
   - **Mileage** (Handles missing values: marked as "KM Yok")
@@ -19,15 +25,11 @@ You can download the sample Excel file here: https://github.com/persates/Car_Tak
 
 
 ## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/AutoScout24-Scraper.git
-  Install the required Python libraries: 
--pip install selenium openpyxl pandas webdriver-manager
-Update the target URL in the code to the desired car listing page:
--driver.get("https://www.autoscout24.com.tr/lst/bmw/i7")
-Run the script:
-python autoscout24_scraper.py
+1. **Clone this repository:** git clone https://github.com/yourusername/AutoScout24-Scraper.git  
+2. **Install the required Python libraries:** pip install selenium openpyxl pandas webdriver-manager
+3. **Update the target URLs in the code:** driver.get("https://www.autoscout24.com.tr/lst/bmw/i7") and driver.get("https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&ms=3500%3B336%3B%3B&ref=quickSearch&s=Car&sb=rel&vc=Car")
+4. **Run the script:** python autoscout24_scraper.py
+
 
 ## Dependencies
 - Python 3.7+
@@ -43,5 +45,10 @@ Feel free to fork this repository and enhance it by:
 
 Please submit a pull request with detailed changes.
 
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+
+
